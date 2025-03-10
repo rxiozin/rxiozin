@@ -12,7 +12,6 @@ Tenho 19 anos, sou de São Paulo/SP e um amante da programação, astronomia e j
 </br>
 🖱️Sou Analista de Suporte na PRODESP;</br>
 </br>
-</br>
 📫 Você pode falar comigo pelo <a href="https://instagram.com/rioxzin" rel="nofollow">Instagram</a> ou pelo <a href="https://www.twitch.tv/raiozinn__" rel="nofollow">Twitter</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 
 =)</br>
 </br>
