@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rxiozin/rxiozin/blob/output/github-contribution-grid-snake.svg)
 
 ## Olá! Me chamo Vinicius Raio!
 Tenho 19 anos, sou de São Paulo/SP e um amante da programação, astronomia e jogos.</br>
