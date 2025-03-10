@@ -34,6 +34,13 @@ Tenho 19 anos, sou de São Paulo/SP e um amante da programação, astronomia e j
 <a href="https://www.linkedin.com/in/viniciusraio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<a href="https://github.com/rxiozin/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rxiozin&theme=midnight-purple"/>
+</a>
+<a href="https://github.com/rxiozin/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxiozin&layout=compact&theme=midnight-purple"
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxiozin/rxiozin/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rxiozin/rxiozin/output/github-contribution-grid-snake.svg">
