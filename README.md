@@ -1,28 +1,28 @@
-## Olá! Me chamo Vinicius Raio!
-Tenho 19 anos, sou de São Paulo/SP e um amante da programação, astronomia e jogos.</br>
+# Olá! Me chamo _Vinicius Raio!_
+Tenho 19 anos, sou de `São Paulo/SP` e um amante da programação, astronomia e jogos.</br>
 <img src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" width="250"> </br>
 
-## 🖥️ Tecnologias e Ferramentas:
+## 🖥️ _Tecnologias e Ferramentas:_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width = "40" height = "40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width ="40" height = "40" title="CSS3"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width = "40" height = "40" title="TailWind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width ="40" height = "40" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width = "40" height = "40" title="Figma"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git" />
           
 #
-💻 Faço Análise e Desenvolvimento de Sistemas na UniFECAF;</br>
+💻 **Faço Análise e Desenvolvimento de Sistemas na UniFECAF**;</br>
 </br>
-🖱️Sou Analista de Suporte na PRODESP;</br>
+🖱️**Sou Analista de Suporte na PRODESP**;</br>
 </br>
-📫 Você pode falar comigo pelo <a href="https://instagram.com/rioxzin" rel="nofollow">Instagram</a> ou pelo <a href="https://www.twitch.tv/raiozinn__" rel="nofollow">Twitter</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 
-=)</br>
+📫 **Você pode falar comigo pelo <a href="https://instagram.com/rioxzin" rel="nofollow">Instagram</a> ou pelo <a href="https://www.twitch.tv/raiozinn__" rel="nofollow">Twitter</a> e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 
+=)**</br>
 </br>
 <a href="https://www.instagram.com/" rel="nofollow"><img align="left" alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg"></a> <a href="https://twitter.com/euraiozin" rel="nofollow"><img align="left" alt="Twitter" width="30px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/twitter.svg"></a><a href="https://www.linkedin.com/in/viniciusraio" rel="nofollow"><img align="left" alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" style="max-width:100;">
 </a>
 </br>
-## O que estou aprendendo no momento:
+## _O que estou aprendendo no momento:_
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width = "40" height = "40" title="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg" width="40" height="40" title="Dart"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width = "40" height = "40" title="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"  width="40" height="40" title="npm"/>
 
-  ## Contatos:
+  ## _Contatos:_
 
 <div>
 <a href="https://www.youtube.com/@raiozinnnn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
