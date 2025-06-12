@@ -1,5 +1,5 @@
 # Olá! Me chamo _Vinicius Raio!_
-Tenho 19 anos, sou de `São Paulo/SP` e um amante da programação, astronomia e jogos.</br>
+Tenho 20 anos, sou de `São Paulo/SP` e um amante da programação, astronomia e jogos.</br>
 <img src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif" width="250"> </br>
 
 ## 🖥️ _Tecnologias e Ferramentas:_
